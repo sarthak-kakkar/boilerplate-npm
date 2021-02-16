@@ -1,0 +1,28 @@
+{
+	"name": "fcc-learn-npm-package-json",
+	"author": "Sarthak Kakkar",
+	"description": "FCC challenge project.",
+	"keywords": [
+		"freecodecamp",
+		"npm",
+		"node",
+		"express",
+		"challenge"
+	],
+  "license": "MIT",
+  "version": "0.1",
+	"dependencies": {
+		"express": "^4.14.0"
+	},
+	"main": "server.js",
+	"scripts": {
+		"start": "node server.js"
+	},
+	"engines": {
+		"node": "8.11.2"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://idontknow/todo.git"
+	}
+}
